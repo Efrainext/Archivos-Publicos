@@ -6,6 +6,9 @@
    id="svg1"
    sodipodi:docname="Escena.svg"
    inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:export-filename="Escena.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -22,8 +25,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="25.1875"
-     inkscape:cx="10.382134"
-     inkscape:cy="3.2952854"
+     inkscape:cx="10.898263"
+     inkscape:cy="3.6526055"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
      inkscape:window-x="0"
@@ -32,7 +35,7 @@
      inkscape:current-layer="svg1" />
   <path
      fill="#e0e0e0"
-     d="M 14.196303,2.9925558 12.123634,3.2955129 12.879179,5.050447 14.463238,4.8195346 Z M 10.295731,3.5606003 8.4687524,3.8284587 9.2242977,5.5852401 11.0522,5.3173818 Z M 6.6390026,4.0944697 4.8120238,4.3623281 5.5675691,6.1191096 7.3954716,5.8512512 Z M 2.9841213,4.6283392 1.400986,4.8592516 1.6679207,6.687154 3.7405903,6.384197 Z M 1.6679207,7.6108036 V 13.152701 A 1.8472991,1.8472991 0 0 0 3.5152198,15 H 14.599014 V 7.6108036 Z"
+     d="m 13.935347,2.249123 -1.985378,0.2901981 0.723724,1.6810255 1.517348,-0.2211875 z M 10.199047,2.7932444 8.4490109,3.049822 9.1727366,4.7326171 10.923658,4.4760396 Z M 6.6963205,3.3046301 4.9462844,3.5612077 5.6700101,5.2440028 7.420931,4.9874252 Z M 3.1953635,3.8160158 1.6789015,4.0372034 1.9345943,5.7881242 3.919974,5.4979261 Z M 1.9345943,6.6728745 v 5.3085015 a 1.7695006,1.7695006 0 0 0 1.7695006,1.769501 H 14.321099 V 6.6728745 Z"
      id="path1"
-     style="stroke-width:0.92365" />
+     style="stroke-width:0.884751" />
 </svg>
