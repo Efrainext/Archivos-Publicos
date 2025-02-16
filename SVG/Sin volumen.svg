@@ -29,13 +29,14 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" /><path
+     inkscape:current-layer="svg2"
+     showguides="false" /><path
      d="M 1.8750281,0.675 0.8262,1.7238281 c 0.005563,4.938e-4 0.0109868,5.86e-4 0.0166992,5.86e-4 h 0.2821289 l 0.5701172,0.5701171 c 0.066,0.067 0.1798828,0.019879 0.1798828,-0.074121 z"
      style="fill:#e0e0e0;paint-order:markers stroke fill"
      id="path8" /><path
      d="m 1.7018555,0.14941406 a 0.1,0.1 0 0 0 -0.081738,0.0301758 L 1.05,0.74941406 H 0.76787109 c -0.093,0 -0.16787109,0.067 -0.16787109,0.15 V 1.4994141 c 0,0.077812 0.0660095,0.1417492 0.15087891,0.149414 L 1.8,0.6 V 0.25546875 A 0.106,0.106 0 0 0 1.7018555,0.14941406 Z"
      style="fill:#e0e0e0;paint-order:markers stroke fill"
      id="path7" /><path
-     style="fill:none;fill-opacity:1;stroke:#7b7f8a;stroke-width:0.253256;stroke-linejoin:round;stroke-opacity:1"
-     d="M 0.28018606,1.9794374 C 1.9770674,0.28255603 1.9794374,0.28018608 1.9794374,0.28018608 Z"
+     style="fill:none;fill-opacity:1;stroke:#1d2228;stroke-width:0.253256;stroke-linejoin:round;stroke-opacity:1"
+     d="M 0.35037433,1.9794374 C 2.0472557,0.28255603 2.0496257,0.28018608 2.0496257,0.28018608 Z"
      id="path4" /></svg>
